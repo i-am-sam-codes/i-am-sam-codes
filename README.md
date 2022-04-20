@@ -1,6 +1,6 @@
-### Hello World, I'm Sam 👋
+## Hello World, I'm Sam 👋
 
-## I'm a self-taught coder and creator. I like to make stuff and post it on the internet!👽
+### I'm a self-taught coder and creator. I like to make stuff and post it on the internet!👽
 - 🔭 I’m currently working on my course The Odin Project
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on open source
