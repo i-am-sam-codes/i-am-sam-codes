@@ -23,14 +23,14 @@
 ---
 
 <details>
-  <summary> GitHub Stats</summary>
+  <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Sam's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=i-am-sam-codes&show_icons=true&hide_border=true" />
 
 </details>
 
 <details>
-  <summary> Most Used Languages</summary>
+  <summary>:zap: Most Used Languages</summary>
 
 <img align="left" alt="Sam's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-sam-codes" />
 
