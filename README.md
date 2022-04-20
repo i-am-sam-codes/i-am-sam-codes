@@ -1,4 +1,4 @@
-### Hello World, I'm Sam aka [iamsamcodes][instagram] 👋
+### Hello World, I'm Sam 👋
 
 ## I'm a self-taught coder and creator. I like to make and post stuff on the internet!👽
 - 🔭 I’m currently working on my course The Odin Project
