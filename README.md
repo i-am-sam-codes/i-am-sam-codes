@@ -1,9 +1,6 @@
 ### Hello World, I'm Sam aka [iamsamcodes][instagram] 👋
 
-<!--
-**i-am-sam-codes/i-am-sam-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ## I'm a self-taught coder and creator. I like to make and post stuff on the internet!👽
-
 - 🔭 I’m currently working on my course The Odin Project
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on open source
