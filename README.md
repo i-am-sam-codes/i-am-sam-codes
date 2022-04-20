@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on my course The Odin Project
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on open source
-- 📫 How to reach me: ...[Instagram](www.instagram.com/iamsamcodes)
+- 📫 How to reach me: ...[Instagram](https://www.instagram.com/iamsamcodes/)
 - 😄 Pronouns: ...She/Her
 - ⚡ Fun fact: ...I speak Spanish :)
 
