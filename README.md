@@ -1,8 +1,8 @@
 ## Hello World, I'm Sam 👋
 
 ### I'm a self-taught coder and creator. I like to make stuff and post it on the internet! 👽
-- 🔭 I’m currently working through a course The Odin Project
-- 🌱 I’m currently learning JavaScript 
+- 🔭 I’m currently working through a course: The Odin Project 👩🏻‍💻
+- 🌱 I’m currently learning JavaScript!
 - 👯 I’m looking to collaborate on open source
 - 📫 How to reach me: [Instagram](https://www.instagram.com/iamsamcodes/)
 - 😄 Pronouns: She/Her
