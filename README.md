@@ -22,16 +22,3 @@
 <br />
 
 ---
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Sam's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=i-am-sam-codes&show_icons=true&hide_border=true&theme=tokyonight" />
-
-</details>
-
-<details>
-  <summary>:zap: Most Used Languages</summary>
-
-<img align="left" alt="Sam's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-sam-codes&layout=compact&theme=tokyonight" />
-
-</details>
